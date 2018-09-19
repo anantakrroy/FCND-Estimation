@@ -37,7 +37,6 @@ In this project, I will be developing the estimation portion of the controller u
 ### Step 3: Prediction Step ###
 
 ![Step 3](./images/8.gif)
-![Step 3](./images/8.png)
 
 ### Step 4: Magnetometer Update ###
 
