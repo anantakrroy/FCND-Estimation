@@ -26,7 +26,7 @@ In this project, I will be developing the estimation portion of the controller u
 
 ### Step 1: Sensor Noise ###
 
-![Step 1](./Images/6.jpeg)
+![Step 1](./Images/6.png)
 
 ***Success criteria:*** *Your standard deviations should accurately capture the value of approximately 68% of the respective measurements.*
 
