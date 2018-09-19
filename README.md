@@ -49,7 +49,23 @@ In this project, I will be developing the estimation portion of the controller u
 
 ### Step 6: Adding Your Controller ###
 
-![Step 5](./images/final.gif)
+![Step 5](./images/final.gif)\
+
+
+## Writeup
+### Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf.
+
+The writeup is this README.md which you are reading.
+
+## Implement Estimator
+
+### Determine the standard deviation of the measurement noise of both GPS X data and Accelerometer X data.
+From the `Graph1.txt` and `Graph2.txt` files, we have the standard deviation calculated. Those values can be found in the first two rows of the `06_SensorNoise.txt` file in the config directory. 
+-MeasuredStdDev_GPSPosXY = 0.776012216
+-MeasuredStdDev_AccelXY = 0.514036636
+
+### Implement a better rate gyro attitude integration scheme in the `UpdateFromIMU()` function.
+
 
 
 ## Authors ##
