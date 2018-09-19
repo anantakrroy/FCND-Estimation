@@ -49,7 +49,7 @@ In this project, I will be developing the estimation portion of the controller u
 
 ### Step 6: Adding Your Controller ###
 
-![Step 5](./images/final.gif)\
+![Step 5](./images/final.gif)
 
 
 ## Writeup
@@ -66,7 +66,7 @@ From the `Graph1.txt` and `Graph2.txt` files, we have the standard deviation cal
 
 ### Implement a better rate gyro attitude integration scheme in the `UpdateFromIMU()` function.
 
-!(./images/IMU.png)
+![(./images/IMU.png)]
 
 ## Authors ##
 
