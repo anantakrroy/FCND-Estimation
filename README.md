@@ -26,31 +26,31 @@ In this project, I will be developing the estimation portion of the controller u
 
 ### Step 1: Sensor Noise ###
 
-![Step 1](./Images/6.gif)
-![Step 1](./Images/6.png)
+![Step 1](./images/6.gif)
+![Step 1](./images/6.png)
 
 ### Step 2: Attitude Estimation ###
 
-![Step 2](./Images/7.gif)
-![Step 2](./Images/7.png)
+![Step 2](./images/7.gif)
+![Step 2](./images/7.png)
 
 ### Step 3: Prediction Step ###
 
-![Step 3](./Images/8.gif)
-![Step 3](./Images/8.png)
+![Step 3](./images/8.gif)
+![Step 3](./images/8.png)
 
 ### Step 4: Magnetometer Update ###
 
-![Step 4](./Images/10.gif)
+![Step 4](./images/10.gif)
 
 ### Step 5: Closed Loop + GPS Update ###
 
-![Step 5](./Images/final.gif)
-![Step 5](./Images/final.png)
+![Step 5](./images/final.gif)
+![Step 5](./images/final.png)
 
 ### Step 6: Adding Your Controller ###
 
-![Step 5](./Images/final.gif)
+![Step 5](./images/final.gif)
 
 
 ## Authors ##
