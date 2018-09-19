@@ -66,7 +66,7 @@ From the `Graph1.txt` and `Graph2.txt` files, we have the standard deviation cal
 
 ### Implement a better rate gyro attitude integration scheme in the `UpdateFromIMU()` function.
 
-![(./images/IMU.png)]
+![IMU function](./images/IMU.png)
 
 ## Authors ##
 
