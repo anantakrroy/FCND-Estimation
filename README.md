@@ -80,6 +80,10 @@ From the `Graph1.txt` and `Graph2.txt` files, we have the standard deviation cal
 ### Implement the GPS update.
 ![UpdateFromGPS function](./images/GPS.png)
 
+## Flight Evaluation ##
+
+The quad meets the required rubric criteria as can be seen from the above GIFs and the corresponding green boxes to signnify meeting the required criteria
+
 ## Authors ##
 
 Thanks to Fotokite for the initial development of the project code and simulator.
