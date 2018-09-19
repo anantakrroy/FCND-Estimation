@@ -68,6 +68,18 @@ From the `Graph1.txt` and `Graph2.txt` files, we have the standard deviation cal
 
 ![IMU function](./images/IMU.png)
 
+### Implement all of the elements of the prediction step for the estimator.
+
+![PredictState function](./images/predictState.png)
+![GetRbgPrime function](./images/RBGprime.png)
+![Predict function](./images/predict.png)
+
+### Implement the magnetometer update.
+![UpdateFromMag function](./images/MAG.png)
+
+### Implement the GPS update.
+![UpdateFromGPS function](./images/GPS.png)
+
 ## Authors ##
 
 Thanks to Fotokite for the initial development of the project code and simulator.
